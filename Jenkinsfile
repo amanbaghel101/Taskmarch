@@ -14,7 +14,7 @@ pipeline
     {
       steps
       {
-        bat "java Demo.java"
+        sh "java Demo.java"
       }
     }
   }

@@ -7,7 +7,7 @@ pipeline
     {
       steps
       {
-        git "https://github.com/amanbaghel101/"
+        git "https://github.com/amanbaghel101/Taskmarch.git"
       }
     }
     stage("Run")
